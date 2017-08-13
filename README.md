@@ -1,4 +1,4 @@
-#BUILD A TO-DO LIST
+# BUILD A TO-DO LIST
 
 Using Express and an in-memory data structure, build a real to-do list application. You should be able to add new todos and mark todos as complete.
 
@@ -18,4 +18,4 @@ app.post("/", function (req, res) {
 })
 
 Because your data is being stored in memory, it will disappear every time your app is restarted. It is easiest to seed some todos and completed todos at the start of your app so that you can see them after a restart.
-# BuildTODOList
+
